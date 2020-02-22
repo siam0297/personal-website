@@ -1,0 +1,158 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    
+}
+
+
+
+
+h1
+{
+    font-size: 40px;
+}
+
+
+.half-width-img
+{
+    padding-top: 6%;
+    padding-left: 8%;
+    width: 70%;
+    
+}
+
+
+
+.latest-half-width-img
+{
+    padding-top: 6%;
+    width: 90%;
+    
+}
+
+
+
+.top-background
+{
+    padding-left: 5%px;
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: 80%;
+    
+}
+
+
+
+section
+{
+   padding-top: 100px;
+   height: 500px;
+  
+}
+
+
+
+p{
+    color: dimgray;
+    padding-bottom: 20PX;
+}
+
+
+
+.link-button
+{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, #FF69B4,#FF1493);
+    padding:10px 20px;
+    border-radius: 10px;
+}
+
+
+
+.biography-area
+{
+    
+    padding-left: 4%;
+    padding-top: 0%;
+    background-image: url("images/biography-bg.png"); 
+    background-repeat: no-repeat;
+    background-position: right;
+   
+}
+
+
+
+
+.Latest-Work-area
+{
+    padding-left: 3%;
+    padding-top: 10%;
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 80%;
+
+
+   
+}
+
+
+
+.latest-work-half-width{
+    border: 1px solid;
+    width: 28%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 2%;
+    
+}
+
+
+
+
+
+
+
+
+.footer-background
+{
+    
+    padding-left: 5%;
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-size: 70%;
+    text-align: center;
+  
+    
+}
+
+
+
+.footer-link-button
+{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg, #FF69B4,#FF1493);
+    padding:50px 50px;
+    border-radius: 10px;
+}
+
+
+footer p{
+    padding-top: 10%;
+    text-align: center;
+    font-size: 16px;
+}
+
